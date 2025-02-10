@@ -1,7 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
+import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
-const Form = ({ setResult, setSuggestions }) => {
+function FormPage() {
+  const navigate = useNavigate();
   const [formData, setFormData] = useState({
     sgpa: "",
     dsa_questions: "",
@@ -13,139 +16,52 @@ const Form = ({ setResult, setSuggestions }) => {
     backlog: "No",
   });
 
-  // Handle input change
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  // Handle form submit
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
       const response = await axios.post("http://127.0.0.1:5000/predict", formData, {
-        headers: { "Content-Type": "application/json" },  // Ensure JSON format
+        headers: { "Content-Type": "application/json" },
       });
-  
-      setResult(response.data.prediction);
-      setSuggestions(response.data.suggestions);
+      navigate("/result", { state: { result: response.data.prediction, suggestions: response.data.suggestions } });
     } catch (error) {
       console.error("Error sending data:", error);
     }
   };
-  
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4">
-      <div>
-        <label className="block font-medium">SGPA:</label>
-        <input
-          type="number"
-          name="sgpa"
-          value={formData.sgpa}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-          required
-        />
-      </div>
-
-      <div>
-        <label className="block font-medium">DSA Questions Solved:</label>
-        <input
-          type="number"
-          name="dsa_questions"
-          value={formData.dsa_questions}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-          required
-        />
-      </div>
-
-      <div>
-        <label className="block font-medium">Knows SQL?</label>
-        <select
-          name="knows_sql"
-          value={formData.knows_sql}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-        >
-          <option value="Yes">Yes</option>
-          <option value="No">No</option>
+    <div className="flex flex-col items-center justify-center min-h-screen">
+      <h2 className="text-2xl font-semibold mb-5">Enter Student Details</h2>
+      <form onSubmit={handleSubmit} className="bg-white p-6 shadow-md rounded-md w-96">
+        <input type="number" name="sgpa" placeholder="SGPA" value={formData.sgpa} onChange={handleChange} required className="w-full p-2 border rounded mb-3" />
+        <input type="number" name="dsa_questions" placeholder="DSA Questions Solved" value={formData.dsa_questions} onChange={handleChange} required className="w-full p-2 border rounded mb-3" />
+        <select name="knows_sql" value={formData.knows_sql} onChange={handleChange} className="w-full p-2 border rounded mb-3">
+          <option value="Yes">Knows SQL</option>
+          <option value="No">Does not know SQL</option>
         </select>
-      </div>
-
-      <div>
-        <label className="block font-medium">Skills:</label>
-        <select
-          name="skills"
-          value={formData.skills}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-        >
+        <select name="skills" value={formData.skills} onChange={handleChange} className="w-full p-2 border rounded mb-3">
           <option value="Web">Web</option>
           <option value="Data Science">Data Science</option>
           <option value="Mobile">Mobile</option>
         </select>
-      </div>
-
-      <div>
-        <label className="block font-medium">Skill Level:</label>
-        <select
-          name="skill_level"
-          value={formData.skill_level}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-        >
+        <select name="skill_level" value={formData.skill_level} onChange={handleChange} className="w-full p-2 border rounded mb-3">
           <option value="Beginner">Beginner</option>
           <option value="Intermediate">Intermediate</option>
           <option value="Advanced">Advanced</option>
         </select>
-      </div>
-
-      <div>
-        <label className="block font-medium">Projects:</label>
-        <input
-          type="number"
-          name="projects"
-          value={formData.projects}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-          required
-        />
-      </div>
-
-      <div>
-        <label className="block font-medium">Internships:</label>
-        <input
-          type="number"
-          name="internships"
-          value={formData.internships}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-          required
-        />
-      </div>
-
-      <div>
-        <label className="block font-medium">Backlog?</label>
-        <select
-          name="backlog"
-          value={formData.backlog}
-          onChange={handleChange}
-          className="w-full p-2 border rounded"
-        >
-          <option value="Yes">Yes</option>
-          <option value="No">No</option>
+        <input type="number" name="projects" placeholder="Number of Projects" value={formData.projects} onChange={handleChange} required className="w-full p-2 border rounded mb-3" />
+        <input type="number" name="internships" placeholder="Number of Internships" value={formData.internships} onChange={handleChange} required className="w-full p-2 border rounded mb-3" />
+        <select name="backlog" value={formData.backlog} onChange={handleChange} className="w-full p-2 border rounded mb-3">
+          <option value="Yes">Has Backlog</option>
+          <option value="No">No Backlog</option>
         </select>
-      </div>
-
-      <button
-        type="submit"
-        className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
-      >
-        Predict Placement
-      </button>
-    </form>
+        <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded">Predict</button>
+      </form>
+    </div>
   );
-};
+}
 
-export default Form;
+export default FormPage;

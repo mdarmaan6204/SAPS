@@ -1,27 +1,29 @@
+import { useLocation, Link } from "react-router-dom";
 import React from "react";
 
-const Result = ({ result, suggestions }) => {
-  return (
-    <div className="mt-6 p-4 bg-gray-50 border rounded shadow">
-      <h3 className="text-xl font-bold text-center">
-        Placement Prediction:{" "}
-        <span className={result === "Yes" ? "text-green-600" : "text-red-600"}>
-          {result}
-        </span>
-      </h3>
+function ResultPage() {
+  const location = useLocation();
+  const { result, suggestions } = location.state || { result: "No Data", suggestions: [] };
 
-      {suggestions.length > 0 && (
-        <div className="mt-4">
-          <h4 className="font-semibold">Suggestions for Improvement:</h4>
-          <ul className="list-disc list-inside text-gray-700">
-            {suggestions.map((suggestion, index) => (
-              <li key={index}>{suggestion}</li>
-            ))}
-          </ul>
-        </div>
-      )}
+  return (
+    <div className="flex flex-col items-center justify-center min-h-screen">
+      <h2 className="text-3xl font-semibold mb-4">Prediction Result</h2>
+      <p className="text-xl font-bold">Placement: {result}</p>
+      <div className="mt-5">
+        <h3 className="text-lg font-semibold">Suggestions:</h3>
+        <ul className="list-disc list-inside">
+          {suggestions.length > 0 ? (
+            suggestions.map((suggestion, index) => <li key={index}>{suggestion}</li>)
+          ) : (
+            <p>No suggestions available</p>
+          )}
+        </ul>
+      </div>
+      <Link to="/" className="mt-5 px-4 py-2 bg-green-500 text-white rounded-lg">
+        Try Again
+      </Link>
     </div>
   );
-};
+}
 
-export default Result;
+export default ResultPage;
