@@ -1,31 +1,68 @@
-import { useLocation, Link } from "react-router-dom";
 import React from "react";
+import { useLocation, Link } from "react-router-dom";
+import companyData from "../utils/company.json";
 
-function ResultPage() {
+const Result = () => {
   const location = useLocation();
-  const { result, suggestions } = location.state || { result: "No Data", suggestions: [] };
+  const { prediction, userData } = location.state || {};
+
+  if (!prediction || !userData) {
+    return <div className="text-center text-red-500">Error: No data available</div>;
+  }
+
+  const eligibleCompanies = Object.values(companyData.companyList || {}).filter(
+    (company) =>
+      userData.cgpa >= company.cgpa &&
+      userData.backlog <= company.backlog &&
+      userData.dsa_questions >= (company.dsa_req === "basic" ? 100 : 500)
+  );
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
-      <div className="bg-white shadow-lg rounded-lg p-6 max-w-lg w-full">
-        <h2 className="text-3xl font-semibold mb-4 text-center text-blue-600">Prediction Result</h2>
-        <p className="text-xl font-bold text-center mb-4">Placement: <span className="text-green-500">{result}</span></p>
-        <div className="mt-5">
-          <h3 className="text-lg font-semibold text-gray-700 mb-2">Suggestions:</h3>
-          <ul className="list-disc list-inside bg-gray-50 p-4 rounded-lg">
-            {suggestions.length > 0 ? (
-              suggestions.map((suggestion, index) => <li key={index} className="mb-1 text-gray-600">{suggestion}</li>)
-            ) : (
-              <p className="text-gray-500">No suggestions available</p>
-            )}
-          </ul>
+    <div className="max-w-4xl mx-auto p-6 bg-gray-100 rounded-lg shadow-lg">
+      <h1 className="text-3xl font-bold text-center mb-6">Placement Prediction Result</h1>
+
+      <div className={`text-center text-4xl font-bold mb-8 ${prediction === "YES" ? "text-green-600" : "text-red-600"}`}>
+        {prediction}
+      </div>
+
+      <h2 className="text-2xl font-semibold mb-4">Eligible Companies</h2>
+
+      {eligibleCompanies.length > 0 ? (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {eligibleCompanies.map((company, index) => (
+            <div key={index} className="bg-white p-4 rounded-lg shadow-md flex flex-col items-center">
+              <img src={company.companyUrl} alt={company.name} className="w-24 h-24 object-contain mb-2" />
+              <h3 className="text-lg font-semibold">{company.name}</h3>
+              <p className="text-sm text-gray-600">CGPA: {company.cgpa}</p>
+              <p className="text-sm text-gray-600">Package: ₹{company.package} LPA</p>
+              <p className="text-sm text-gray-600">DSA Level: {company.dsa_req}</p>
+            </div>
+          ))}
         </div>
-        <Link to="/" className="mt-5 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition duration-300 block text-center">
-          Try Again
-        </Link>
+      ) : (
+        <p className="text-center text-gray-600 mt-4">No eligible companies found. Keep improving your skills!</p>
+      )}
+
+      <div className="mt-8 text-center">
+        <h3 className="text-xl font-semibold mb-2">Recommendations</h3>
+        {userData.dsa_questions < 100 && (
+          <Link to="/dsa/beginner" className="block bg-blue-500 text-white py-2 px-4 rounded mt-2">
+            Start DSA (Beginner)
+          </Link>
+        )}
+        {userData.dsa_questions >= 100 && userData.dsa_questions < 500 && (
+          <Link to="/dsa/intermediate" className="block bg-green-500 text-white py-2 px-4 rounded mt-2">
+            Improve DSA (Intermediate)
+          </Link>
+        )}
+        {userData.dsa_questions >= 500 && (
+          <Link to="/dsa/advanced" className="block bg-purple-500 text-white py-2 px-4 rounded mt-2">
+            Master DSA (Advanced)
+          </Link>
+        )}
       </div>
     </div>
   );
-}
+};
 
-export default ResultPage;
+export default Result;

@@ -3,7 +3,6 @@ import React from "react";
 import dsaQuestions from '../utils/dsa.json';
 import { LC_LOGO } from "../utils/constant";
 import { DOC_LOGO } from "../utils/constant";
-import { YT_LOGO } from "../utils/constant";
 
 const Advance = () => {
   const [openDay, setOpenDay] = useState(null);
@@ -90,7 +89,7 @@ const ProblemTable = ({ problems }) => {
               </a>
             </td> */}
             <td className="py-2">
-              <span className={`bg-green-100 text-green-600 py-1 px-2 rounded-full`}>{problem.questionLevel}</span>
+              <span className={`bg-red-100 text-red-600 py-1 px-2 rounded-full`}>{problem.questionLevel}</span>
             </td>
           </tr>
         ))}

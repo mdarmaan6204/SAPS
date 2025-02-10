@@ -9,7 +9,7 @@ const DSA = () => {
         <nav className="flex justify-center space-x-6 mb-6">
           <Link to="beginner" className="px-4 py-2 bg-blue-500 text-white rounded-lg shadow hover:bg-blue-600 transition">Beginner</Link>
           <Link to="intermediate" className="px-4 py-2 bg-green-500 text-white rounded-lg shadow hover:bg-green-600 transition">Intermediate</Link>
-          <Link to="advance" className="px-4 py-2 bg-red-500 text-white rounded-lg shadow hover:bg-red-600 transition">Advance</Link>
+          <Link to="advanced" className="px-4 py-2 bg-red-500 text-white rounded-lg shadow hover:bg-red-600 transition">Advance</Link>
         </nav>
         <hr className="border-gray-300 mb-6" />
         <div className="p-4 bg-gray-50 rounded-lg shadow">

@@ -1,5 +1,4 @@
-{
-  "dsaForBeginner": {
+{"dsaForBeginner": {
     "arrays": [
       {
         "questionTitle": "Largest Element in an Array",
@@ -299,7 +298,7 @@
     "array": [
       {
         "questionTitle": "Two Sum",
-        "solutionLink": "https://www.geeksforgeeks.org/given-an-array-and-a-number-find-if-there-exists-a-pair-with-given-sum/",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/",
         "practiceLink": "https://leetcode.com/problems/two-sum/",
         "questionLevel": "Medium"
       },
@@ -311,13 +310,13 @@
       },
       {
         "questionTitle": "4Sum",
-        "solutionLink": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value/",
+        "solutionLink": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/",
         "practiceLink": "https://leetcode.com/problems/4sum/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Maximum Subarray Sum",
-        "solutionLink": "https://www.geeksforgeeks.org/largest-contiguous-subarray-sum/",
+        "solutionLink": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/",
         "practiceLink": "https://leetcode.com/problems/maximum-subarray/",
         "questionLevel": "Medium"
       },
@@ -329,7 +328,7 @@
       },
       {
         "questionTitle": "Product of Array Except Self",
-        "solutionLink": "https://www.geeksforgeeks.org/product-array-except-for-given-index/",
+        "solutionLink": "https://www.geeksforgeeks.org/a-product-array-puzzle/",
         "practiceLink": "https://leetcode.com/problems/product-of-array-except-self/",
         "questionLevel": "Medium"
       },
@@ -341,7 +340,7 @@
       },
       {
         "questionTitle": "Find the kth largest element in an array",
-        "solutionLink": "https://www.geeksforgeeks.org/k-largest-elements-in-an-array/",
+        "solutionLink": "https://www.geeksforgeeks.org/kth-largest-element-in-an-array/",
         "practiceLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
         "questionLevel": "Medium"
       },
@@ -359,7 +358,7 @@
       },
       {
         "questionTitle": "Next Permutation",
-        "solutionLink": "https://www.geeksforgeeks.org/find-the-next-lexicographical-permutation-string/",
+        "solutionLink": "https://www.geeksforgeeks.org/next-permutation/",
         "practiceLink": "https://leetcode.com/problems/next-permutation/",
         "questionLevel": "Medium"
       },
@@ -389,7 +388,7 @@
       },
       {
         "questionTitle": "Find the Duplicate Number",
-        "solutionLink": "https://www.geeksforgeeks.org/find-the-duplicate-number/",
+        "solutionLink": "https://www.geeksforgeeks.org/find-duplicates-given-array-elements-not-limited-range/",
         "practiceLink": "https://leetcode.com/problems/find-the-duplicate-number/",
         "questionLevel": "Medium"
       }
@@ -409,13 +408,13 @@
       },
       {
         "questionTitle": "Longest Common Subsequence",
-        "solutionLink": "https://www.geeksforgeeks.org/longest-common-subsequence-dp-approach/",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/",
         "practiceLink": "https://leetcode.com/problems/longest-common-subsequence/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Group Anagrams",
-        "solutionLink": "https://www.geeksforgeeks.org/given-an-array-of-words-find-all-anagrams-together/",
+        "solutionLink": "https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/",
         "practiceLink": "https://leetcode.com/problems/group-anagrams/",
         "questionLevel": "Medium"
       },
@@ -427,7 +426,7 @@
       },
       {
         "questionTitle": "Simplify Path",
-        "solutionLink": "https://www.geeksforgeeks.org/simplify-directory-path/",
+        "solutionLink": "https://www.geeksforgeeks.org/simplify-directory-path-unix-like/",
         "practiceLink": "https://leetcode.com/problems/simplify-path/",
         "questionLevel": "Medium"
       },
@@ -439,7 +438,7 @@
       },
       {
         "questionTitle": "Implement strStr()",
-        "solutionLink": "https://www.geeksforgeeks.org/naive-pattern-searching-algorithm/",
+        "solutionLink": "https://www.geeksforgeeks.org/strstr-in-ccpp/",
         "practiceLink": "https://leetcode.com/problems/implement-strstr/",
         "questionLevel": "Medium"
       },
@@ -457,31 +456,31 @@
       },
       {
         "questionTitle": "Minimum Window Substring",
-        "solutionLink": "https://www.geeksforgeeks.org/minimum-window-substring/",
+        "solutionLink": "https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/",
         "practiceLink": "https://leetcode.com/problems/minimum-window-substring/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Substring with Concatenation of All Words",
-        "solutionLink": "https://www.geeksforgeeks.org/substring-concatenation-all-words/",
+        "solutionLink": "https://www.geeksforgeeks.org/find-starting-indices-substrings-string-s-made-concatenating-words-listl/",
         "practiceLink": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Longest Repeating Character Replacement",
-        "solutionLink": "https://www.geeksforgeeks.org/longest-repeating-character-replacement/",
+        "solutionLink": "https://algo.monster/liteproblems/424",
         "practiceLink": "https://leetcode.com/problems/longest-repeating-character-replacement/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Regular Expression Matching",
-        "solutionLink": "https://www.geeksforgeeks.org/regular-expression-matching/",
+        "solutionLink": "https://www.geeksforgeeks.org/implementing-regular-expression-matching/",
         "practiceLink": "https://leetcode.com/problems/regular-expression-matching/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Decode String",
-        "solutionLink": "https://www.geeksforgeeks.org/decode-a-string-recursively-encoded-as-count-followed-by-character/",
+        "solutionLink": "https://www.geeksforgeeks.org/decode-string-recursively-encoded-count-followed-substring/",
         "practiceLink": "https://leetcode.com/problems/decode-string/",
         "questionLevel": "Medium"
       }
@@ -501,19 +500,19 @@
       },
       {
         "questionTitle": "Binary Tree Preorder Traversal (Recursive)",
-        "solutionLink": "https://www.geeksforgeeks.org/preorder-tree-traversal/",
+        "solutionLink": "https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/",
         "practiceLink": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Binary Tree Postorder Traversal (Recursive)",
-        "solutionLink": "https://www.geeksforgeeks.org/postorder-tree-traversal/",
+        "solutionLink": "https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/",
         "practiceLink": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Generate Parentheses",
-        "solutionLink": "https://www.geeksforgeeks.org/generate-all-possible-parentheses/",
+        "solutionLink": "https://algo.monster/liteproblems/22",
         "practiceLink": "https://leetcode.com/problems/generate-parentheses/",
         "questionLevel": "Medium"
       },
@@ -531,19 +530,19 @@
       },
       {
         "questionTitle": "Combination Sum",
-        "solutionLink": "https://www.geeksforgeeks.org/find-all-possible-combinations-that-sum-to-given-target/",
+        "solutionLink": "https://www.geeksforgeeks.org/combinational-sum/",
         "practiceLink": "https://leetcode.com/problems/combination-sum/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Combination Sum II",
-        "solutionLink": "https://www.geeksforgeeks.org/combination-sum-ii-print-unique-combinations/",
+        "solutionLink": "https://workat.tech/problem-solving/approach/cs2/combination-sum-2",
         "practiceLink": "https://leetcode.com/problems/combination-sum-ii/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Letter Combinations of a Phone Number",
-        "solutionLink": "https://www.geeksforgeeks.org/print-all-possible-strings-that-can-be-formed-by-placing-spaces/",
+        "solutionLink": "https://www.geeksforgeeks.org/iterative-letter-combinations-of-a-phone-number/",
         "practiceLink": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
         "questionLevel": "Medium"
       },
@@ -555,13 +554,13 @@
       },
       {
         "questionTitle": "Sudoku Solver",
-        "solutionLink": "https://www.geeksforgeeks.org/sudoku-backtracking-3/",
+        "solutionLink": "https://www.geeksforgeeks.org/sudoku-backtracking-7/",
         "practiceLink": "https://leetcode.com/problems/sudoku-solver/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Kth Symbol in Grammar",
-        "solutionLink": "https://www.geeksforgeeks.org/find-k-th-character-of-string-generated-by-recursive-consecutive-appending/",
+        "solutionLink": "https://algo.monster/liteproblems/779",
         "practiceLink": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
         "questionLevel": "Medium"
       },
@@ -587,13 +586,13 @@
       },
       {
         "questionTitle": "Detect Loop in Linked List",
-        "solutionLink": "https://www.geeksforgeeks.org/detect-loop-in-linked-list/",
+        "solutionLink": "https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/",
         "practiceLink": "https://leetcode.com/problems/linked-list-cycle/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Remove Nth Node From End of Linked List",
-        "solutionLink": "https://www.geeksforgeeks.org/delete-nth-node-from-end-of-a-linked-list/",
+        "solutionLink": "https://www.geeksforgeeks.org/remove-nth-node-from-end-of-the-linked-list/",
         "practiceLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
         "questionLevel": "Medium"
       },
@@ -605,7 +604,7 @@
       },
       {
         "questionTitle": "Merge k Sorted Linked Lists",
-        "solutionLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-2/",
+        "solutionLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/",
         "practiceLink": "https://leetcode.com/problems/merge-k-sorted-lists/",
         "questionLevel": "Medium"
       },
@@ -623,13 +622,13 @@
       },
       {
         "questionTitle": "Remove Duplicates from Sorted Linked List II",
-        "solutionLink": "https://www.geeksforgeeks.org/remove-duplicate-nodes-from-a-sorted-linked-list-ii/",
+        "solutionLink": "https://algo.monster/liteproblems/82",
         "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Partition Linked List",
-        "solutionLink": "https://www.geeksforgeeks.org/partition-a-linked-list-around-a-given-value/",
+        "solutionLink": "https://www.geeksforgeeks.org/partitioning-a-linked-list-around-a-given-value-and-keeping-the-original-order/",
         "practiceLink": "https://leetcode.com/problems/partition-list/",
         "questionLevel": "Medium"
       },
@@ -647,25 +646,25 @@
       },
       {
         "questionTitle": "Intersection of Two Linked Lists",
-        "solutionLink": "https://www.geeksforgeeks.org/find-intersection-of-two-linked-lists/",
+        "solutionLink": "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/",
         "practiceLink": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Palindrome Linked List",
-        "solutionLink": "https://www.geeksforgeeks.org/check-if-linked-list-is-palindrome/",
+        "solutionLink": "https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/",
         "practiceLink": "https://leetcode.com/problems/palindrome-linked-list/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Reorder Linked List",
-        "solutionLink": "https://www.geeksforgeeks.org/reorder-a-linked-list/",
+        "solutionLink": "https://workat.tech/problem-solving/approach/rll/reorder-linked-list",
         "practiceLink": "https://leetcode.com/problems/reorder-list/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Add Two Numbers Represented by Linked Lists",
-        "solutionLink": "https://www.geeksforgeeks.org/add-two-numbers-represented-linked-lists/",
+        "solutionLink": "https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-list/",
         "practiceLink": "https://leetcode.com/problems/add-two-numbers/",
         "questionLevel": "Medium"
       }
@@ -691,7 +690,7 @@
       },
       {
         "questionTitle": "Implement Stack using Queues",
-        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-two-queues/",
+        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-queue/",
         "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/",
         "questionLevel": "Medium"
       },
@@ -709,7 +708,7 @@
       },
       {
         "questionTitle": "Next Greater Element II",
-        "solutionLink": "https://www.geeksforgeeks.org/next-greater-element-circular-array/",
+        "solutionLink": "https://algo.monster/liteproblems/503",
         "practiceLink": "https://leetcode.com/problems/next-greater-element-ii/",
         "questionLevel": "Medium"
       }
@@ -717,25 +716,25 @@
     "Queue": [
       {
         "questionTitle": "Implement Queue using Stacks",
-        "solutionLink": "https://www.geeksforgeeks.org/implement-queue-using-stacks/",
-        "practiceLink": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "solutionLink": "https://www.geeksforgeeks.org/queue-using-stacks/",
+        "practiceLink": "https://www.geeksforgeeks.org/implement-queue-using-stacks/implement-queue-using-stacks/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Implement Stack using Queues",
-        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-two-queues/",
+        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-queue/",
         "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "Circular Queue",
-        "solutionLink": "https://www.geeksforgeeks.org/circular-queue-implementation-c/",
+        "solutionLink": "https://www.geeksforgeeks.org/introduction-to-circular-queue/",
         "practiceLink": "https://www.geeksforgeeks.org/circular-queue-array-implementation/",
         "questionLevel": "Medium"
       },
       {
         "questionTitle": "First Non-Repeating Character in a Stream",
-        "solutionLink": "https://www.geeksforgeeks.org/first-non-repeating-character-stream-characters/",
+        "solutionLink": "https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/",
         "practiceLink": "https://leetcode.com/problems/first-unique-character-in-a-string/",
         "questionLevel": "Medium"
       },
