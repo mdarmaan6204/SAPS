@@ -1,0 +1,84 @@
+{
+  "companyList": {
+    "1": {
+      "name": "TCS Ninja",
+      "cgpa": 6,
+      "backlog": 1,
+      "package": 3.5,
+      "dsa_req": "basic",
+      "companyUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/2560px-Tata_Consultancy_Services_Logo.svg.png"
+    },
+    "2": {
+      "name": "TCS Digital",
+      "cgpa": 6,
+      "backlog": 1,
+      "package": 7,
+      "dsa_req": "intermediate",
+      "companyUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/2560px-Tata_Consultancy_Services_Logo.svg.png"
+    },
+    "3": {
+      "name": "TCS Prime",
+      "cgpa": 6,
+      "backlog": 1,
+      "package": 9,
+      "dsa_req": "Advanced",
+      "companyUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/2560px-Tata_Consultancy_Services_Logo.svg.png"
+    },
+    "4": {
+      "name": "Hitachi",
+      "cgpa": 6,
+      "backlog": 0,
+      "package": 7,
+      "dsa_req": "intermediate",
+      "companyUrl": "https://w7.pngwing.com/pngs/368/622/png-transparent-hitachi-hd-logo-thumbnail.png"
+    },
+    "5": {
+      "name": "Deloitte",
+      "cgpa": 6,
+      "backlog": 0,
+      "package": 7,
+      "dsa_req": "intermediate",
+      "companyUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg"
+    },
+    "6": {
+      "name": "Capgemini",
+      "cgpa": 6,
+      "backlog": 0,
+      "package": 4,
+      "dsa_req": "basic",
+      "companyUrl": "https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"
+    },
+    "7": {
+      "name": "Cognizant GenC",
+      "cgpa": 6,
+      "backlog": 0,
+      "package": 4.3,
+      "dsa_req": "intermediate",
+      "companyUrl": "https://logos-world.net/wp-content/uploads/2023/03/Cognizant-Logo.png"
+    },
+    "8": {
+      "name": "Yamaha Motors",
+      "cgpa": 7.5,
+      "backlog": 0,
+      "package": 7,
+      "dsa_req": "intermediate",
+      "companyUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gkEpg5YClVWhf9IjTDJ-RjS6Jrqrdwg0-w&s"
+    },
+    "9": {
+      "name": "JSL",
+      "cgpa": 6.5,
+      "backlog": 0,
+      "package": 6,
+      "dsa_req": "Basic",
+      "companyUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsMoQhxFf7agFKQ1wnxXaaoDMeya2qhETfA&s"
+    },
+    "10": {
+      "name": "L&T",
+      "cgpa": 6.5,
+      "backlog": 0,
+      "package": 6,
+      "dsa_req": "Basic",
+      "companyUrl": "https://w7.pngwing.com/pngs/640/492/png-transparent-larsen-toubro-company-logo-computer-numerical-control-l-t-ecc-infra-others-miscellaneous-blue-company.png"
+    }
+  }
+}

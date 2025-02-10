@@ -1,0 +1,1316 @@
+{
+  "dsaForBeginner": {
+    "arrays": [
+      {
+        "questionTitle": "Largest Element in an Array",
+        "solutionLink": "https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Second Largest Element in an Array without sorting",
+        "solutionLink": "https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=810s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Check if the array is sorted",
+        "solutionLink": "https://takeuforward.org/data-structure/check-if-an-array-is-sorted/",
+        "practiceLink": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=17224s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Remove duplicates from Sorted array",
+        "solutionLink": "https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/",
+        "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=1887s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Left Rotate an array by one place",
+        "solutionLink": "https://takeuforward.org/data-structure/left-rotate-the-array-by-one/",
+        "practiceLink": "https://leetcode.com/problems/rotate-array/",
+        "solutionVideo": "https://youtu.be/wvcQg43_V8U",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Left rotate an array by D places",
+        "solutionLink": "https://takeuforward.org/data-structure/rotate-array-by-k-elements/",
+        "practiceLink": "https://leetcode.com/problems/rotate-array/",
+        "solutionVideo": "https://youtu.be/wvcQg43_V8U",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Move Zeros to end",
+        "solutionLink": "https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/",
+        "practiceLink": "https://leetcode.com/problems/move-zeroes/",
+        "solutionVideo": "https://youtu.be/wvcQg43_V8U",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Linear Search",
+        "solutionLink": "https://takeuforward.org/data-structure/linear-search-in-c/",
+        "practiceLink": "https://bit.ly/3KcpHcB",
+        "solutionVideo": "https://youtu.be/wvcQg43_V8U",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Find the Union",
+        "solutionLink": "https://takeuforward.org/data-structure/union-of-two-sorted-arrays/",
+        "practiceLink": "https://bit.ly/3Ap7Onp",
+        "solutionVideo": "https://youtu.be/wvcQg43_V8U",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Find missing number in an array",
+        "solutionLink": "https://takeuforward.org/arrays/find-the-missing-number-in-an-array/",
+        "practiceLink": "https://leetcode.com/problems/missing-number/",
+        "solutionVideo": "https://youtu.be/bYWLJb3vCWY",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "strings": [
+      {
+        "questionTitle": "Remove outermost Paranthesis",
+        "solutionLink": "https://www.geeksforgeeks.org/print-the-string-obtained-after-removal-of-outermost-parentheses/",
+        "practiceLink": "https://leetcode.com/problems/remove-outermost-parentheses/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=MLfAFCkzChU",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Reverse words in a given string / Palindrome Check",
+        "solutionLink": "https://takeuforward.org/data-structure/reverse-words-in-a-string/",
+        "practiceLink": "https://leetcode.com/problems/reverse-words-in-a-string/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=RitppzIdMCo",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Check if two strings are anagram of each other",
+        "solutionLink": "https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/",
+        "practiceLink": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+        "solutionVideo": "",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "Linked List": [
+      {
+        "questionTitle": "Introduction to LinkedList, learn about struct, and how is node represented",
+        "solutionLink": "https://takeuforward.org/linked-list/linked-list-introduction",
+        "practiceLink": "https://bit.ly/3URZnst",
+        "solutionVideo": "https://youtu.be/Nq7ok-OyEpg",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Inserting a node in LinkedList",
+        "solutionLink": "https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list",
+        "practiceLink": "https://bit.ly/3w9pEIt",
+        "solutionVideo": "https://youtu.be/VaECK03Dz-g",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Deleting a node in LinkedList",
+        "solutionLink": "https://takeuforward.org/data-structure/delete-last-node-of-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "solutionVideo": "https://youtu.be/Nq7ok-OyEpg",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Find the length of the linkedlist [learn traversal]",
+        "solutionLink": "https://takeuforward.org/linked-list/find-the-length-of-a-linked-list",
+        "practiceLink": "https://bit.ly/3Po7tpf",
+        "solutionVideo": "https://www.youtube.com/watch?v=Nq7ok-OyEpg&t=2240s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Search an element in the LL",
+        "solutionLink": "https://takeuforward.org/linked-list/search-an-element-in-a-linked-list",
+        "practiceLink": "https://bit.ly/3Epriup",
+        "solutionVideo": "",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Introduction to DLL, learn about struct, and how is node represented",
+        "solutionLink": "https://takeuforward.org/linked-list/introduction-to-doubly-linked-list",
+        "practiceLink": "https://bit.ly/3V9wY1v",
+        "solutionVideo": "https://youtu.be/0eKMU10uEDI",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Insert a node in DLL",
+        "solutionLink": "https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/",
+        "practiceLink": "https://bit.ly/3QD4hHs",
+        "solutionVideo": "https://youtu.be/0eKMU10uEDI",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Delete a node in DLL",
+        "solutionLink": "https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/",
+        "practiceLink": "https://bit.ly/3QlEoMx",
+        "solutionVideo": "https://youtu.be/0eKMU10uEDI",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Reverse a DLL",
+        "solutionLink": "https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/",
+        "practiceLink": "https://bit.ly/3w6hUaa",
+        "solutionVideo": "https://youtu.be/u3WUW2qe6ww",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Middle of a LinkedList [TortoiseHare Method]",
+        "solutionLink": "https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "solutionVideo": "https://youtu.be/7LjQ57RqgEc",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "Stack": [
+      {
+        "questionTitle": "Infix to Postfix Conversion using Stack",
+        "solutionLink": "https://takeuforward.org/data-structure/infix-to-postfix/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-array",
+        "solutionVideo": "https://www.youtube.com/watch?v=4pIc9UBHJtk",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Implement Stack using Arrays",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-stack-using-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Implement Stack using Queue",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
+        "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Implement stack using Linkedlist",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-stack-using-linked-list/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-linked-list",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Next Greater Element",
+        "solutionLink": "https://takeuforward.org/data-structure/next-greater-element-using-stack/",
+        "practiceLink": "https://leetcode.com/problems/next-greater-element-i/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=e7XQLtOQM3I",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "Queue": [
+      {
+        "questionTitle": "Implement Queue using Arrays",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-queue-using-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-array",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Implement Queue using Stack",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-queue-using-stack/",
+        "practiceLink": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Implement queue using Linkedlist",
+        "solutionLink": "https://takeuforward.org/data-structure/implement-queue-using-linked-list/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-linked-list",
+        "solutionVideo": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Trapping Rainwater",
+        "solutionLink": "https://takeuforward.org/data-structure/trapping-rainwater/",
+        "practiceLink": "https://leetcode.com/problems/trapping-rain-water/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=1_5VuquLbXg",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Largest rectangle in a histogram",
+        "solutionLink": "https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
+        "practiceLink": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+        "solutionVideo": "https://www.youtube.com/watch?v=Bzat9vgD0fs",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "Problems on Number": [
+      {
+        "questionTitle": "Largest Element in an Array",
+        "solutionLink": "https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Second Largest Element in an Array without sorting",
+        "solutionLink": "https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest",
+        "solutionVideo": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=810s",
+        "questionLevel": "Beginner"
+      }
+    ],
+    "Problems On Sorting": [
+      {
+        "questionTitle": "Selection Sort",
+        "solutionLink": "https://takeuforward.org/sorting/selection-sort-algorithm/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort",
+        "solutionVideo": "https://www.youtube.com/watch?v=HGk_ypEuS24&t=167s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Bubble Sort",
+        "solutionLink": "https://takeuforward.org/data-structure/bubble-sort-algorithm/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort",
+        "solutionVideo": "https://www.youtube.com/watch?v=HGk_ypEuS24&t=1061s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Insertion Sort",
+        "solutionLink": "https://takeuforward.org/data-structure/insertion-sort-algorithm/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort",
+        "solutionVideo": "https://www.youtube.com/watch?v=HGk_ypEuS24&t=1900s",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Merge Sort",
+        "solutionLink": "https://takeuforward.org/data-structure/merge-sort-algorithm/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort",
+        "solutionVideo": "https://www.youtube.com/watch?v=ogjf7ORKfd8",
+        "questionLevel": "Beginner"
+      },
+      {
+        "questionTitle": "Quick Sort",
+        "solutionLink": "https://takeuforward.org/data-structure/quick-sort-algorithm/",
+        "practiceLink": "https://www.geeksforgeeks.org/problems/quick-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=quick-sort",
+        "solutionVideo": "https://www.youtube.com/watch?v=WIrA4YexLRQ",
+        "questionLevel": "Beginner"
+      }
+    ]
+  },
+  "dsaForIntermediate": {
+    "array": [
+      {
+        "questionTitle": "Two Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/given-an-array-and-a-number-find-if-there-exists-a-pair-with-given-sum/",
+        "practiceLink": "https://leetcode.com/problems/two-sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "3Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/",
+        "practiceLink": "https://leetcode.com/problems/3sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "4Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value/",
+        "practiceLink": "https://leetcode.com/problems/4sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Maximum Subarray Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/largest-contiguous-subarray-sum/",
+        "practiceLink": "https://leetcode.com/problems/maximum-subarray/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Container With Most Water",
+        "solutionLink": "https://www.geeksforgeeks.org/container-with-most-water/",
+        "practiceLink": "https://leetcode.com/problems/container-with-most-water/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Product of Array Except Self",
+        "solutionLink": "https://www.geeksforgeeks.org/product-array-except-for-given-index/",
+        "practiceLink": "https://leetcode.com/problems/product-of-array-except-self/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Maximum Product Subarray",
+        "solutionLink": "https://www.geeksforgeeks.org/maximum-subarray-product/",
+        "practiceLink": "https://leetcode.com/problems/maximum-product-subarray/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Find the kth largest element in an array",
+        "solutionLink": "https://www.geeksforgeeks.org/k-largest-elements-in-an-array/",
+        "practiceLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Sort an array of 0s, 1s and 2s",
+        "solutionLink": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/",
+        "practiceLink": "https://leetcode.com/problems/sort-colors/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Merge Intervals",
+        "solutionLink": "https://www.geeksforgeeks.org/merging-intervals/",
+        "practiceLink": "https://leetcode.com/problems/merge-intervals/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Next Permutation",
+        "solutionLink": "https://www.geeksforgeeks.org/find-the-next-lexicographical-permutation-string/",
+        "practiceLink": "https://leetcode.com/problems/next-permutation/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Rotate Array",
+        "solutionLink": "https://www.geeksforgeeks.org/array-rotation/",
+        "practiceLink": "https://leetcode.com/problems/rotate-array/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Subarray Sum Equals K",
+        "solutionLink": "https://www.geeksforgeeks.org/find-subarray-with-given-sum/",
+        "practiceLink": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Longest Increasing Subsequence",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-increasing-subsequence/",
+        "practiceLink": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Spiral Matrix",
+        "solutionLink": "https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/",
+        "practiceLink": "https://leetcode.com/problems/spiral-matrix/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Find the Duplicate Number",
+        "solutionLink": "https://www.geeksforgeeks.org/find-the-duplicate-number/",
+        "practiceLink": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "String": [
+      {
+        "questionTitle": "Longest Palindromic Substring",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-palindromic-substring/",
+        "practiceLink": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "String to Integer (atoi)",
+        "solutionLink": "https://www.geeksforgeeks.org/write-your-own-atoi/",
+        "practiceLink": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Longest Common Subsequence",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-common-subsequence-dp-approach/",
+        "practiceLink": "https://leetcode.com/problems/longest-common-subsequence/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Group Anagrams",
+        "solutionLink": "https://www.geeksforgeeks.org/given-an-array-of-words-find-all-anagrams-together/",
+        "practiceLink": "https://leetcode.com/problems/group-anagrams/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Valid Parentheses",
+        "solutionLink": "https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/",
+        "practiceLink": "https://leetcode.com/problems/valid-parentheses/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Simplify Path",
+        "solutionLink": "https://www.geeksforgeeks.org/simplify-directory-path/",
+        "practiceLink": "https://leetcode.com/problems/simplify-path/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Reverse Words in a String",
+        "solutionLink": "https://www.geeksforgeeks.org/reverse-words-in-a-given-string/",
+        "practiceLink": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Implement strStr()",
+        "solutionLink": "https://www.geeksforgeeks.org/naive-pattern-searching-algorithm/",
+        "practiceLink": "https://leetcode.com/problems/implement-strstr/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Palindrome Partitioning",
+        "solutionLink": "https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/",
+        "practiceLink": "https://leetcode.com/problems/palindrome-partitioning/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Word Break",
+        "solutionLink": "https://www.geeksforgeeks.org/word-break-problem-dp-32/",
+        "practiceLink": "https://leetcode.com/problems/word-break/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Minimum Window Substring",
+        "solutionLink": "https://www.geeksforgeeks.org/minimum-window-substring/",
+        "practiceLink": "https://leetcode.com/problems/minimum-window-substring/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Substring with Concatenation of All Words",
+        "solutionLink": "https://www.geeksforgeeks.org/substring-concatenation-all-words/",
+        "practiceLink": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Longest Repeating Character Replacement",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-repeating-character-replacement/",
+        "practiceLink": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Regular Expression Matching",
+        "solutionLink": "https://www.geeksforgeeks.org/regular-expression-matching/",
+        "practiceLink": "https://leetcode.com/problems/regular-expression-matching/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Decode String",
+        "solutionLink": "https://www.geeksforgeeks.org/decode-a-string-recursively-encoded-as-count-followed-by-character/",
+        "practiceLink": "https://leetcode.com/problems/decode-string/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Recursion": [
+      {
+        "questionTitle": "Reverse a Linked List (Recursive)",
+        "solutionLink": "https://www.geeksforgeeks.org/reverse-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/reverse-linked-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Inorder Traversal (Recursive)",
+        "solutionLink": "https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Preorder Traversal (Recursive)",
+        "solutionLink": "https://www.geeksforgeeks.org/preorder-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Postorder Traversal (Recursive)",
+        "solutionLink": "https://www.geeksforgeeks.org/postorder-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Generate Parentheses",
+        "solutionLink": "https://www.geeksforgeeks.org/generate-all-possible-parentheses/",
+        "practiceLink": "https://leetcode.com/problems/generate-parentheses/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Subsets",
+        "solutionLink": "https://www.geeksforgeeks.org/power-set/",
+        "practiceLink": "https://leetcode.com/problems/subsets/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Permutations",
+        "solutionLink": "https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/",
+        "practiceLink": "https://leetcode.com/problems/permutations/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Combination Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-all-possible-combinations-that-sum-to-given-target/",
+        "practiceLink": "https://leetcode.com/problems/combination-sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Combination Sum II",
+        "solutionLink": "https://www.geeksforgeeks.org/combination-sum-ii-print-unique-combinations/",
+        "practiceLink": "https://leetcode.com/problems/combination-sum-ii/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Letter Combinations of a Phone Number",
+        "solutionLink": "https://www.geeksforgeeks.org/print-all-possible-strings-that-can-be-formed-by-placing-spaces/",
+        "practiceLink": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "N-Queens",
+        "solutionLink": "https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/",
+        "practiceLink": "https://leetcode.com/problems/n-queens/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Sudoku Solver",
+        "solutionLink": "https://www.geeksforgeeks.org/sudoku-backtracking-3/",
+        "practiceLink": "https://leetcode.com/problems/sudoku-solver/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Kth Symbol in Grammar",
+        "solutionLink": "https://www.geeksforgeeks.org/find-k-th-character-of-string-generated-by-recursive-consecutive-appending/",
+        "practiceLink": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Palindrome Partitioning",
+        "solutionLink": "https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/",
+        "practiceLink": "https://leetcode.com/problems/palindrome-partitioning/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Word Break",
+        "solutionLink": "https://www.geeksforgeeks.org/word-break-problem-dp-32/",
+        "practiceLink": "https://leetcode.com/problems/word-break/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Linked List": [
+      {
+        "questionTitle": "Reverse a Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/reverse-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/reverse-linked-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Detect Loop in Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/detect-loop-in-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/linked-list-cycle/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Remove Nth Node From End of Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/delete-nth-node-from-end-of-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Merge Two Sorted Linked Lists",
+        "solutionLink": "https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/",
+        "practiceLink": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Merge k Sorted Linked Lists",
+        "solutionLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-2/",
+        "practiceLink": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Delete Node in a Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/",
+        "practiceLink": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Remove Duplicates from Sorted Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Remove Duplicates from Sorted Linked List II",
+        "solutionLink": "https://www.geeksforgeeks.org/remove-duplicate-nodes-from-a-sorted-linked-list-ii/",
+        "practiceLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Partition Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/partition-a-linked-list-around-a-given-value/",
+        "practiceLink": "https://leetcode.com/problems/partition-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Odd Even Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/odd-even-linked-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Linked List Cycle II",
+        "solutionLink": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Intersection of Two Linked Lists",
+        "solutionLink": "https://www.geeksforgeeks.org/find-intersection-of-two-linked-lists/",
+        "practiceLink": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Palindrome Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-linked-list-is-palindrome/",
+        "practiceLink": "https://leetcode.com/problems/palindrome-linked-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Reorder Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/reorder-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/reorder-list/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Add Two Numbers Represented by Linked Lists",
+        "solutionLink": "https://www.geeksforgeeks.org/add-two-numbers-represented-linked-lists/",
+        "practiceLink": "https://leetcode.com/problems/add-two-numbers/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Stack": [
+      {
+        "questionTitle": "Valid Parentheses",
+        "solutionLink": "https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/",
+        "practiceLink": "https://leetcode.com/problems/valid-parentheses/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Evaluate Reverse Polish Notation",
+        "solutionLink": "https://www.geeksforgeeks.org/evaluation-of-postfix-expression/",
+        "practiceLink": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Min Stack",
+        "solutionLink": "https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/",
+        "practiceLink": "https://leetcode.com/problems/min-stack/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Implement Stack using Queues",
+        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-two-queues/",
+        "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Daily Temperatures",
+        "solutionLink": "https://www.geeksforgeeks.org/the-stock-span-problem/",
+        "practiceLink": "https://leetcode.com/problems/daily-temperatures/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Next Greater Element I",
+        "solutionLink": "https://www.geeksforgeeks.org/next-greater-element/",
+        "practiceLink": "https://leetcode.com/problems/next-greater-element-i/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Next Greater Element II",
+        "solutionLink": "https://www.geeksforgeeks.org/next-greater-element-circular-array/",
+        "practiceLink": "https://leetcode.com/problems/next-greater-element-ii/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Queue": [
+      {
+        "questionTitle": "Implement Queue using Stacks",
+        "solutionLink": "https://www.geeksforgeeks.org/implement-queue-using-stacks/",
+        "practiceLink": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Implement Stack using Queues",
+        "solutionLink": "https://www.geeksforgeeks.org/implement-stack-using-two-queues/",
+        "practiceLink": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Circular Queue",
+        "solutionLink": "https://www.geeksforgeeks.org/circular-queue-implementation-c/",
+        "practiceLink": "https://www.geeksforgeeks.org/circular-queue-array-implementation/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "First Non-Repeating Character in a Stream",
+        "solutionLink": "https://www.geeksforgeeks.org/first-non-repeating-character-stream-characters/",
+        "practiceLink": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "LRU Cache",
+        "solutionLink": "https://www.geeksforgeeks.org/lru-cache-implementation/",
+        "practiceLink": "https://leetcode.com/problems/lru-cache/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Tree": [
+      {
+        "questionTitle": "Maximum Depth of Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/maximum-depth-of-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Diameter of Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/diameter-of-a-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Balanced Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/check-for-balanced-tree/",
+        "practiceLink": "https://leetcode.com/problems/balanced-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Same Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-two-trees-are-identical/",
+        "practiceLink": "https://leetcode.com/problems/same-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Invert Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/mirror-tree/",
+        "practiceLink": "https://leetcode.com/problems/invert-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Inorder Traversal",
+        "solutionLink": "https://www.geeksforgeeks.org/inorder-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Preorder Traversal",
+        "solutionLink": "https://www.geeksforgeeks.org/preorder-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Binary Tree Postorder Traversal",
+        "solutionLink": "https://www.geeksforgeeks.org/postorder-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Level Order Traversal",
+        "solutionLink": "https://www.geeksforgeeks.org/level-order-tree-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Vertical Order Traversal of a Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/vertical-order-traversal-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Lowest Common Ancestor of a Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/lowest-common-ancestor-in-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Validate Binary Search Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-bst/",
+        "practiceLink": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Kth Smallest Element in a BST",
+        "solutionLink": "https://www.geeksforgeeks.org/kth-smallest-element-in-bst-using-o1-extra-space/",
+        "practiceLink": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "solutionLink": "https://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/",
+        "practiceLink": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Serialize and Deserialize Binary Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/serialize-and-deserialize-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "questionLevel": "Medium"
+      }
+    ],
+    "Dynamic Programming": [
+      {
+        "questionTitle": "Climbing Stairs",
+        "solutionLink": "https://www.geeksforgeeks.org/count-ways-reach-nth-stair/",
+        "practiceLink": "https://leetcode.com/problems/climbing-stairs/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Fibonacci Number",
+        "solutionLink": "https://www.geeksforgeeks.org/program-for-fibonacci-numbers/",
+        "practiceLink": "https://leetcode.com/problems/fibonacci-number/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "N-th Tribonacci Number",
+        "solutionLink": "https://www.geeksforgeeks.org/tribonacci-numbers/",
+        "practiceLink": "https://leetcode.com/problems/n-th-tribonacci-number/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Min Cost Climbing Stairs",
+        "solutionLink": "https://www.geeksforgeeks.org/minimum-cost-to-reach-nth-stair-using-at-most-two-jumps/",
+        "practiceLink": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "House Robber",
+        "solutionLink": "https://www.geeksforgeeks.org/house-robber-problem/",
+        "practiceLink": "https://leetcode.com/problems/house-robber/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Best Time to Buy and Sell Stock",
+        "solutionLink": "https://www.geeksforgeeks.org/maximum-profit-buy-sell-stocks-given-days/",
+        "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Pascal's Triangle",
+        "solutionLink": "https://www.geeksforgeeks.org/pascals-triangle/",
+        "practiceLink": "https://leetcode.com/problems/pascals-triangle/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Number of Dice Rolls With Target Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/number-of-ways-to-obtain-a-target-sum-by-throwing-dice/",
+        "practiceLink": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Unique Paths",
+        "solutionLink": "https://www.geeksforgeeks.org/count-possible-paths-reach-top-left-bottom-right-2d-array/",
+        "practiceLink": "https://leetcode.com/problems/unique-paths/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Longest Common Subsequence (Length)",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-common-subsequence-dp-approach/",
+        "practiceLink": "https://leetcode.com/problems/longest-common-subsequence/",
+        "questionLevel": "Easy"
+      }
+    ]
+  },
+  "dsaForAdvance": {
+    "Advance Questions": [
+      {
+        "questionTitle": "Trapping Rain Water",
+        "solutionLink": "https://www.geeksforgeeks.org/trapping-rain-water/",
+        "practiceLink": "https://leetcode.com/problems/trapping-rain-water/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Container With Most Water",
+        "solutionLink": "https://www.geeksforgeeks.org/container-with-most-water/",
+        "practiceLink": "https://leetcode.com/problems/container-with-most-water/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "3Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/",
+        "practiceLink": "https://leetcode.com/problems/3sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "4Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value/",
+        "practiceLink": "https://leetcode.com/problems/4sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Product of Array Except Self",
+        "solutionLink": "https://www.geeksforgeeks.org/product-array-except-for-given-index/",
+        "practiceLink": "https://leetcode.com/problems/product-of-array-except-self/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Maximum Product Subarray",
+        "solutionLink": "https://www.geeksforgeeks.org/maximum-subarray-product/",
+        "practiceLink": "https://leetcode.com/problems/maximum-product-subarray/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Longest Increasing Subsequence",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-increasing-subsequence/",
+        "practiceLink": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Find Minimum in Rotated Sorted Array",
+        "solutionLink": "https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/",
+        "practiceLink": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Search in Rotated Sorted Array",
+        "solutionLink": "https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array/",
+        "practiceLink": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Combination Sum",
+        "solutionLink": "https://www.geeksforgeeks.org/find-all-possible-combinations-that-sum-to-given-target/",
+        "practiceLink": "https://leetcode.com/problems/combination-sum/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Subsets",
+        "solutionLink": "https://www.geeksforgeeks.org/power-set/",
+        "practiceLink": "https://leetcode.com/problems/subsets/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Word Search",
+        "solutionLink": "https://www.geeksforgeeks.org/word-search/",
+        "practiceLink": "https://leetcode.com/problems/word-search/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Sudoku Solver",
+        "solutionLink": "https://www.geeksforgeeks.org/sudoku-backtracking-3/",
+        "practiceLink": "https://leetcode.com/problems/sudoku-solver/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "First Missing Positive",
+        "solutionLink": "https://www.geeksforgeeks.org/find-the-smallest-missing-number/",
+        "practiceLink": "https://leetcode.com/problems/first-missing-positive/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "solutionLink": "https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+        "practiceLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Maximum Product of Three Numbers",
+        "solutionLink": "https://www.geeksforgeeks.org/find-three-numbers-whose-product-is-maximum/",
+        "practiceLink": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+        "questionLevel": "Easy"
+      },
+      {
+        "questionTitle": "Subarray Sum Equals K",
+        "solutionLink": "https://www.geeksforgeeks.org/find-subarray-with-given-sum/",
+        "practiceLink": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Longest Consecutive Sequence",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-consecutive-subsequence/",
+        "practiceLink": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Number of Subarrays with Odd Product",
+        "solutionLink": "https://www.geeksforgeeks.org/number-subarrays-even-odd-product/",
+        "practiceLink": "https://leetcode.com/problems/number-of-subarrays-with-odd-product/",
+        "questionLevel": "Medium"
+      },
+      {
+        "questionTitle": "Largest Rectangle in Histogram",
+        "solutionLink": "https://www.geeksforgeeks.org/largest-rectangular-area-in-a-histogram/",
+        "practiceLink": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Trapping Rain Water",
+        "solutionLink": "https://www.geeksforgeeks.org/trapping-rain-water/",
+        "practiceLink": "https://leetcode.com/problems/trapping-rain-water/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Basic Calculator II",
+        "solutionLink": "https://www.geeksforgeeks.org/expression-evaluation-set-2-shunting-yard-algorithm/",
+        "practiceLink": "https://leetcode.com/problems/basic-calculator-ii/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Asteroid Collision",
+        "solutionLink": "https://www.geeksforgeeks.org/asteroid-collision/",
+        "practiceLink": "https://leetcode.com/problems/asteroid-collision/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Remove Duplicate Letters",
+        "solutionLink": "https://www.geeksforgeeks.org/remove-duplicate-letters/",
+        "practiceLink": "https://leetcode.com/problems/remove-duplicate-letters/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Sliding Window Maximum",
+        "solutionLink": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+        "practiceLink": "https://leetcode.com/problems/sliding-window-maximum/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Sliding Window Median",
+        "solutionLink": "https://www.geeksforgeeks.org/sliding-window-median/",
+        "practiceLink": "https://leetcode.com/problems/sliding-window-median/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Task Scheduler",
+        "solutionLink": "https://www.geeksforgeeks.org/minimum-time-to-finish-all-tasks-with-no-two-same-tasks-together/",
+        "practiceLink": "https://leetcode.com/problems/task-scheduler/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Rotting Oranges",
+        "solutionLink": "https://www.geeksforgeeks.org/rotting-oranges-minimum-time-required/",
+        "practiceLink": "https://leetcode.com/problems/rotting-oranges/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Open the Lock",
+        "solutionLink": "https://www.geeksforgeeks.org/open-the-lock/",
+        "practiceLink": "https://leetcode.com/problems/open-the-lock/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Merge k Sorted Lists",
+        "solutionLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-2/",
+        "practiceLink": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Reverse Nodes in k-Group",
+        "solutionLink": "https://www.geeksforgeeks.org/reverse-a-linked-list-in-groups-of-given-size/",
+        "practiceLink": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Palindrome Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-linked-list-is-palindrome/",
+        "practiceLink": "https://leetcode.com/problems/palindrome-linked-list/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Reorder List",
+        "solutionLink": "https://www.geeksforgeeks.org/reorder-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/reorder-list/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "LRU Cache",
+        "solutionLink": "https://www.geeksforgeeks.org/lru-cache-implementation/",
+        "practiceLink": "https://leetcode.com/problems/lru-cache/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Add Two Numbers II",
+        "solutionLink": "https://www.geeksforgeeks.org/add-two-numbers-represented-linked-lists/",
+        "practiceLink": "https://leetcode.com/problems/add-two-numbers-ii/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Flatten a Multilevel Doubly Linked List",
+        "solutionLink": "https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointer/",
+        "practiceLink": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Rotate List",
+        "solutionLink": "https://www.geeksforgeeks.org/rotate-a-linked-list/",
+        "practiceLink": "https://leetcode.com/problems/rotate-list/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Copy List with Random Pointer",
+        "solutionLink": "https://www.geeksforgeeks.org/a-linked-list-with-arbitrary-pointer-set-2/",
+        "practiceLink": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Serialize and Deserialize BST",
+        "solutionLink": "https://www.geeksforgeeks.org/serialize-and-deserialize-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Word Ladder",
+        "solutionLink": "https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/",
+        "practiceLink": "https://leetcode.com/problems/word-ladder/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Clone Graph",
+        "solutionLink": "https://www.geeksforgeeks.org/clone-an-undirected-graph/",
+        "practiceLink": "https://leetcode.com/problems/clone-graph/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Course Schedule II",
+        "solutionLink": "https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-topological-sort/",
+        "practiceLink": "https://leetcode.com/problems/course-schedule-ii/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Alien Dictionary",
+        "solutionLink": "https://www.geeksforgeeks.org/given-an-alien-dictionary-find-the-order-of-characters/",
+        "practiceLink": "https://leetcode.com/problems/alien-dictionary/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Number of Islands",
+        "solutionLink": "https://www.geeksforgeeks.org/find-the-number-of-islands/",
+        "practiceLink": "https://leetcode.com/problems/number-of-islands/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Pacific Atlantic Water Flow",
+        "solutionLink": "https://www.geeksforgeeks.org/pacific-atlantic-water-flow/",
+        "practiceLink": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Graph Valid Tree",
+        "solutionLink": "https://www.geeksforgeeks.org/check-whether-a-given-graph-is-tree-or-not/",
+        "practiceLink": "https://leetcode.com/problems/graph-valid-tree/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Minimum Cost to Connect Sticks",
+        "solutionLink": "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/",
+        "practiceLink": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "K Closest Points to Origin",
+        "solutionLink": "https://www.geeksforgeeks.org/k-closest-points-to-origin/",
+        "practiceLink": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Merge Intervals",
+        "solutionLink": "https://www.geeksforgeeks.org/merging-intervals/",
+        "practiceLink": "https://leetcode.com/problems/merge-intervals/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Insert Interval",
+        "solutionLink": "https://www.geeksforgeeks.org/insert-an-interval-into-a-sorted-set-of-intervals/",
+        "practiceLink": "https://leetcode.com/problems/insert-interval/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Binary Tree Postorder Traversal (Iterative)",
+        "solutionLink": "https://www.geeksforgeeks.org/iterative-postorder-traversal-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Binary Tree Preorder Traversal (Iterative)",
+        "solutionLink": "https://www.geeksforgeeks.org/iterative-preorder-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Binary Tree Inorder Traversal (Iterative)",
+        "solutionLink": "https://www.geeksforgeeks.org/iterative-inorder-traversal/",
+        "practiceLink": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Critical Connections in a Network",
+        "solutionLink": "https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/",
+        "practiceLink": "https://leetcode.com/problems/critical-connections-in-a-network/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Number of Distinct Islands",
+        "solutionLink": "https://www.geeksforgeeks.org/number-of-distinct-islands-sets-2/",
+        "practiceLink": "https://leetcode.com/problems/number-of-distinct-islands/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Find Median from Data Stream",
+        "solutionLink": "https://www.geeksforgeeks.org/find-median-of-a-data-stream/",
+        "practiceLink": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Serialize and Deserialize BST",
+        "solutionLink": "https://www.geeksforgeeks.org/serialize-and-deserialize-binary-tree/",
+        "practiceLink": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Edit Distance",
+        "solutionLink": "https://www.geeksforgeeks.org/edit-distance-dp-5/",
+        "practiceLink": "https://leetcode.com/problems/edit-distance/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Longest Common Subsequence",
+        "solutionLink": "https://www.geeksforgeeks.org/longest-common-subsequence-dp-approach/",
+        "practiceLink": "https://leetcode.com/problems/longest-common-subsequence/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Word Break II",
+        "solutionLink": "https://www.geeksforgeeks.org/word-break-problem-using-dynamic-programming/",
+        "practiceLink": "https://leetcode.com/problems/word-break-ii/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Regular Expression Matching",
+        "solutionLink": "https://www.geeksforgeeks.org/regular-expression-matching/",
+        "practiceLink": "https://leetcode.com/problems/regular-expression-matching/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Wildcard Matching",
+        "solutionLink": "https://www.geeksforgeeks.org/wildcard-pattern-matching/",
+        "practiceLink": "https://leetcode.com/problems/wildcard-matching/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Palindrome Partitioning II",
+        "solutionLink": "https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/",
+        "practiceLink": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Maximum Profit in Job Scheduling",
+        "solutionLink": "https://www.geeksforgeeks.org/weighted-job-scheduling-set-2-using-dynamic-programming/",
+        "practiceLink": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Distinct Subsequences",
+        "solutionLink": "https://www.geeksforgeeks.org/number-of-times-a-string-appears-as-a-subsequence-of-other-string/",
+        "practiceLink": "https://leetcode.com/problems/distinct-subsequences/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Scramble String",
+        "solutionLink": "https://www.geeksforgeeks.org/check-if-a-string-is-a-scrambled-form-of-another-string/",
+        "practiceLink": "https://leetcode.com/problems/scramble-string/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Range Sum Query - Mutable",
+        "solutionLink": "https://www.geeksforgeeks.org/segment-tree-range-minimum-query/",
+        "practiceLink": "https://leetcode.com/problems/range-sum-query-mutable/",
+        "questionLevel": "Hard"
+      },
+      {
+        "questionTitle": "Range Product Queries",
+        "solutionLink": "https://www.geeksforgeeks.org/segment-tree-range-product-queries/",
+        "practiceLink": "https://leetcode.com/problems/range-product-queries/",
+        "questionLevel": "Hard"
+      }
+    ]
+  }
+}
