@@ -4,13 +4,13 @@ import { useNavigate } from "react-router-dom";
 
 const Form = ({ setUserData }) => {
   const [formData, setFormData] = useState({
-    cgpa: "",
-    dsa_questions: "",
-    knows_sql: "No",
+    cgpa: "8.2",
+    dsa_questions: "500",
+    knows_sql: "Yes",
     skills: "Web",
-    skill_level: "Beginner",
-    projects: "",
-    internships: "",
+    skill_level: "Advanced",
+    projects: "4",
+    internships: "0",
     backlog: "No",
   });
 
